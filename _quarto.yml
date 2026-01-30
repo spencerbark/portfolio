@@ -12,6 +12,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: problems.qmd
+        text: Problems I’m Exploring
       - text: Projects
         menu:
           - href: projects/project-1.qmd
@@ -35,3 +37,4 @@ format:
     include-in-header:
       - text: |
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+

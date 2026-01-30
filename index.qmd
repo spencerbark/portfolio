@@ -4,14 +4,24 @@ title: "Welcome to My Product Management Portfolio"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profilepic.jpeg" alt="Spencer Bark profile photo" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Spencer Bark</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<p class="lead">
+I’m a student at Brigham Young University interested in product management, strategy,
+and how AI can be used to build better products.
+</p>
+
+<p>
+This portfolio highlights projects and experiments I’m working on this semester as I learn
+how to identify real problems, build quick prototypes, and test ideas with real users.
+</p>
+
+<a href="https://linkedin.com/in/spencerbark" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/spencerbark" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -21,8 +31,13 @@ title: "Welcome to My Product Management Portfolio"
 
 ::: {.g-col-12 .g-col-md-6 .card}
 
-### [Name of my first app](projects/project-1.qmd)
-A one sentence description of my first application which is deployed to vercel. 
+### [AI PM Todo App](projects/project-1.qmd)
+
+A simple Streamlit-based todo list application built to practice rapid prototyping,
+state management, and persistence using a JSON file as a lightweight database.
 
 :::
+
+
+
 

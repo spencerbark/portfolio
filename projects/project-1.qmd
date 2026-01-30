@@ -1,54 +1,28 @@
 ---
-title: "Name of the application I have published for Homework 1"
-date: "2024-09-15"
-categories: [GitHub, Vercel, Claude Code]
+title: "AI PM Todo App"
+categories: [Product Management, Prototyping, AI]
 ---
 
 ## Overview
 
-This project involved using Claude Code to write the code to needed to deveop an app that ...
+This project is a lightweight productivity application I built to practice core product
+management and rapid prototyping skills. The focus was on shipping a simple, functional MVP
+quickly rather than building a feature-heavy system.
 
-The primary purpose of this app is to:
+I used this project to move from a loosely defined idea to a deployed application, learning
+how product decisions around scope, usability, and speed affect the final outcome.
 
-- ....
-- ....
+## Problem
 
-## Live Product Demo
+Managing tasks can quickly become overwhelming when information is scattered across notes,
+reminders, and apps. Even simple task lists often feel heavier than necessary, creating
+friction for basic planning.
 
-<div class="d-flex justify-content-center gap-3 my-4">
-  <!-- Open App button -->
-  <a class="btn btn-primary d-inline-flex align-items-center"
-     href="https://tetris-game-egc6.vercel.app/"
-     target="_blank" rel="noopener"
-     aria-label="Open live app">
-    <i class="fa-solid fa-window-restore me-2" aria-hidden="true"></i>
-    Open App in New Tab
-  </a>
+I wanted to explore how a minimal interface could reduce that friction and make task entry
+and tracking feel fast and intuitive.
 
-  <!-- GitHub Source button -->
-  <a class="btn btn-outline-dark d-inline-flex align-items-center"
-     href="https://github.com/your-user/your-repo"
-     target="_blank" rel="noopener"
-     aria-label="Open GitHub source">
-    <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
-    View source on GitHub
-  </a>
-</div>
+## Solution
 
-<iframe src="https://tetris-game-egc6.vercel.app/"
-        style="width:100%; height:900px; border:none;"
-        allowfullscreen>
-</iframe>
+The AI PM Todo App is a simple web-based todo li
 
-## Technical Details
 
-Framework/Stack: [e.g., React, Quarto, HTML/CSS/JS]
-
-Deployment: GitHub Pages + Vercel
-
-Tools Used:
--   Claude Code
-
-## Product Requirements Document
-
-Paste in the PRD that you submitted to Claude Code
