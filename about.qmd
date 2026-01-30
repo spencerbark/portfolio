@@ -4,7 +4,7 @@ title: "About Me"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profilepic.jpeg" alt="Spencer Bark profile photo" class="profile-photo mb-3" width="100">
+<img src="images/1758264121511.jpeg" alt="Spencer Bark profile photo" class="profile-photo mb-3" width="150">
 
 <h1>Spencer Bark</h1>
 
