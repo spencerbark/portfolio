@@ -4,7 +4,7 @@ title: "About Me"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profilepic.jpeg" alt="Spencer Bark profile photo" class="rounded-circle mb-3" width="160">
+<img src="images/profilepic.jpeg" alt="Spencer Bark profile photo" class="profile-photo mb-3" width="100">
 
 <h1>Spencer Bark</h1>
 
@@ -19,6 +19,16 @@ title: "About Me"
 
 ## Background
 
-I’m a student at Brigham Young University with a strong interest in product management, strategy, and how emerging technologies—especially AI—can be used to solve real, everyday problems. I’m motivated by understanding how people interact with systems, where friction exists, and how thoughtful product decisions can create me
+I'm a sophomore at Brigham Young University with a strong interest in product management, strategy, and consulting. I'm drawn to roles where I can understand complex problems, break them down into actionable pieces, and drive meaningful outcomes.
+
+What excites me most is the intersection of technology and user needs—figuring out where friction exists and how thoughtful product decisions can create real value. I'm particularly interested in how emerging technologies like AI can be applied to solve everyday problems in simple, intuitive ways.
+
+## What I'm Looking For
+
+I'm seeking opportunities in product management, strategy, or consulting where I can contribute to building products that matter. I thrive in environments that value analytical thinking, clear communication, and a bias toward action.
+
+## This Portfolio
+
+This site showcases projects I'm building to develop my product thinking—from identifying real problems to shipping functional prototypes. Each project represents hands-on learning in scoping, prioritization, and execution.
 
 

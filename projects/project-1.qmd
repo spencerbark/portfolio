@@ -23,6 +23,11 @@ and tracking feel fast and intuitive.
 
 ## Solution
 
-The AI PM Todo App is a simple web-based todo li
+The AI PM Todo App is a simple web-based todo list designed for non-technical users. It features a clean, friendly interface that makes task management intuitive and frictionless—no learning curve required.
+
+**Links:**
+
+- [Live App](https://todo-app-vert-three-16.vercel.app)
+- [GitHub Repository](https://github.com/spencerbark/todo-app)
 
 

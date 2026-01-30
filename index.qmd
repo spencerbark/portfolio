@@ -4,7 +4,7 @@ title: "Welcome to My Product Management Portfolio"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profilepic.jpeg" alt="Spencer Bark profile photo" class="rounded-circle mb-3" width="160">
+<img src="images/profilepic.jpeg" alt="Spencer Bark profile photo" class="profile-photo mb-3" width="100">
 
 <h1>Spencer Bark</h1>
 
@@ -33,8 +33,7 @@ how to identify real problems, build quick prototypes, and test ideas with real 
 
 ### [AI PM Todo App](projects/project-1.qmd)
 
-A simple Streamlit-based todo list application built to practice rapid prototyping,
-state management, and persistence using a JSON file as a lightweight database.
+A simple web-based todo list designed for non-technical users. Built to practice rapid prototyping and shipping a functional MVP quickly.
 
 :::
 

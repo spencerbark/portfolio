@@ -80,4 +80,4 @@ This template is available under the MIT License. Feel free to use it for your o
 
 ---
 
-**Ready to showcase your work? Start by updating `index.qmd` with your information!**# 490R-HW1
+**Ready to showcase your work? Start by updating `index.qmd` with your information!**
