@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Spencer Bark"
+  favicon: images/14d03ae8-1e50-46d1-9f40-3bc07aa309f5.png
   navbar:
     background: primary
     left:
