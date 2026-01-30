@@ -52,7 +52,7 @@ body {
 .hero-banner {
   text-align: center;
   padding: 4rem 2rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
   border-radius: 20px;
   margin-bottom: 3rem;
   border: none;
@@ -114,7 +114,7 @@ body {
 
 .hero-banner .btn:hover {
   background: #fff;
-  color: #667eea;
+  color: #3b82f6;
   border-color: #fff;
   transform: translateY(-2px);
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
@@ -174,7 +174,7 @@ h2::after {
   left: 0;
   width: 50px;
   height: 3px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
   border-radius: 2px;
 }
 
@@ -202,16 +202,16 @@ h3 {
 
 .card h3, .g-col-12.g-col-md-6 h3 {
   margin-top: 0;
-  color: #667eea;
+  color: #3b82f6;
 }
 
 .card h3 a, .g-col-12.g-col-md-6 h3 a {
-  color: #667eea;
+  color: #3b82f6;
   font-weight: 600;
 }
 
 .card h3 a:hover, .g-col-12.g-col-md-6 h3 a:hover {
-  color: #764ba2;
+  color: #1d4ed8;
   text-decoration: none;
 }
 
@@ -222,7 +222,7 @@ h3 {
   padding: 1.75rem;
   margin-bottom: 1.5rem;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
-  border-left: 4px solid #667eea;
+  border-left: 4px solid #3b82f6;
   transition: all 0.3s ease;
 }
 
@@ -244,7 +244,7 @@ h3 {
 }
 
 .problem-card strong {
-  color: #667eea;
+  color: #3b82f6;
   font-weight: 600;
 }
 
@@ -273,12 +273,12 @@ li {
 /* Links */
 a {
   text-decoration: none;
-  color: #667eea;
+  color: #3b82f6;
   transition: color 0.2s ease;
 }
 
 a:hover {
-  color: #764ba2;
+  color: #1d4ed8;
   text-decoration: none;
 }
 
@@ -324,7 +324,7 @@ code {
   padding: 0.2rem 0.5rem;
   border-radius: 4px;
   font-size: 0.9em;
-  color: #667eea;
+  color: #3b82f6;
 }
 
 pre code {
@@ -350,7 +350,7 @@ th, td {
 }
 
 th {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
   color: #fff;
   font-weight: 600;
 }
@@ -430,6 +430,6 @@ html {
 
 /* Selection color */
 ::selection {
-  background: #667eea;
+  background: #3b82f6;
   color: #fff;
 }
