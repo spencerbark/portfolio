@@ -1,11 +1,12 @@
 ---
-title: "Problems I’m Exploring"
+title: "Problems I'm Exploring"
 ---
 
 This page outlines real problems I personally experience and think are worth solving. The goal
 is to practice product thinking by clearly framing user pain, explaining why it matters, and
 presenting each as a legitimate product opportunity.
 
+::: {.problem-card}
 ## 1) Internship application tracking is fragmented
 **Description:** Recruiting involves deadlines, follow-ups, networking conversations, and notes
 spread across email, spreadsheets, calendars, and reminders. Important context gets lost and
@@ -14,45 +15,54 @@ follow-through becomes inconsistent.
 **Why it matters to me:** Balancing school and recruiting gets overwhelming quickly, and missing a
 follow-up or deadline can directly impact outcomes.
 
-**Why it’s worth solving:** A lightweight system that combines deadlines, relationship context, and
+**Why it's worth solving:** A lightweight system that combines deadlines, relationship context, and
 next actions could significantly improve recruiting effectiveness without adding more complexity.
+:::
 
-## 2) Students don’t know which skills to prioritize for target roles
+::: {.problem-card}
+## 2) Students don't know which skills to prioritize for target roles
 **Description:** Job descriptions are often vague, leaving students unsure which skills will have
 the highest impact. Many end up learning tools randomly rather than intentionally.
 
 **Why it matters to me:** Time is limited, and I want my learning to map clearly to real roles and
 expectations.
 
-**Why it’s worth solving:** A clear skills-to-role map with assessments and learning paths could help
+**Why it's worth solving:** A clear skills-to-role map with assessments and learning paths could help
 students upskill faster and demonstrate readiness.
+:::
 
+::: {.problem-card}
 ## 3) Financial decisions feel unclear because information is scattered
 **Description:** Budgeting, saving, investing, and major purchases are deeply connected, but most
 tools separate them, making tradeoffs difficult to evaluate.
 
-**Why it matters to me:** I’ve learned that clarity leads to better decisions and more consistent
+**Why it matters to me:** I've learned that clarity leads to better decisions and more consistent
 follow-through.
 
-**Why it’s worth solving:** A unified view of financial tradeoffs across time, risk, and cash flow
+**Why it's worth solving:** A unified view of financial tradeoffs across time, risk, and cash flow
 could help people make confident, informed decisions.
+:::
 
+::: {.problem-card}
 ## 4) Group projects suffer from unclear ownership
 **Description:** In many teams, responsibilities and expectations are implicit. Tasks slip through
 the cracks even when everyone is motivated.
 
-**Why it matters to me:** I’ve seen strong teams underperform due to coordination issues rather than
+**Why it matters to me:** I've seen strong teams underperform due to coordination issues rather than
 lack of effort.
 
-**Why it’s worth solving:** Clear ownership, simple workflows, and shared definitions of success can
+**Why it's worth solving:** Clear ownership, simple workflows, and shared definitions of success can
 dramatically improve team outcomes.
+:::
 
-## 5) Productivity advice isn’t contextual
-**Description:** Most productivity systems assume an ideal schedule and don’t adapt to changing
+::: {.problem-card}
+## 5) Productivity advice isn't contextual
+**Description:** Most productivity systems assume an ideal schedule and don't adapt to changing
 priorities, deadlines, or workload spikes.
 
 **Why it matters to me:** Managing classes, projects, and recruiting requires a system grounded in
 real constraints.
 
-**Why it’s worth solving:** Context-aware planning tools could reduce stress and help people execute
+**Why it's worth solving:** Context-aware planning tools could reduce stress and help people execute
 more consistently.
+:::
