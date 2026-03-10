@@ -18,6 +18,8 @@ website:
         menu:
           - href: projects/project-1.qmd
             text: AI PM Todo App
+          - href: https://unit-map.vercel.app
+            text: UnitMap
 
 format:
   html:
