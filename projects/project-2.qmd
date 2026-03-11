@@ -18,3 +18,13 @@ UnitMap gives operators a simple, mobile-friendly web app to add clients to stor
 **Links:**
 - [Live App](https://unit-map.vercel.app)
 - [GitHub Repository](https://github.com/spencerbark/unit-map)
+
+## User Feedback Summary
+
+After conducting three usability tests, all testers were able to complete the core task of adding a client to a storage unit without any guidance. The app's simplicity was consistently praised — users found the search and copy-access-code features immediately intuitive. The main improvement requested across all three sessions was a facility filter to help organize units when the list grows large. Mobile usability was also flagged as an area to improve, since operators primarily use this tool in the field on their phones. These findings confirmed the core value proposition and gave clear direction for the next iteration.
+
+## Links
+
+- [Live App](https://unit-map.vercel.app)
+- [GitHub Repository](https://github.com/spencerbark/unit-map)
+- [Product Spec](https://github.com/spencerbark/unit-map/blob/main/docs/product-spec.md)
